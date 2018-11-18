@@ -33,6 +33,8 @@ This theme focuses on improving reading experience.
 - [Cizel's Blog](https://www.cizel.cn/) - A Chinese blog @cizel.
 - [TeaTech](https://maiyang.me/) - Gopher @yangwenmai.
 - [AxdLog](https://axdlog.com) - Personal blog in English and traditional Chinese by @MaxdSre
+- [Time](https://ifttl.com/) - Personal Blog
+- [IT & Laws](https://itlaws.cn/) - itLaws，一个律师的关于IT、法律的博客
 
 
 Are you using **hugo-theme-jane**? [Add your site](https://github.com/xianmin/hugo-theme-jane/edit/master/README.md) to the list!
