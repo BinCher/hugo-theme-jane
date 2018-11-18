@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 baseURL = "http://blog.antice.top/"
 title = "ChengBin‘s Blog"
 =======
@@ -9,6 +10,10 @@ title = "ChengBin‘s Blog"
 baseURL = "http://localhost:1313/"
 title = "Jane - A super concise theme for Hugo"
 >>>>>>> bd2ba3c3f174eb3164ac49b4b065fe46f822fc51
+=======
+baseURL = "http://BinCher.github.io/"
+title = "BinCher的博客"
+>>>>>>> d30ad2e086a1814a369234ebecc58f515979c634
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -30,7 +35,11 @@ defaultContentLanguage = "zh-cn"  # 默认使用的语言
   languageCode = "zh-cn"
 
 [author]                  # essential                     # 必需
+<<<<<<< HEAD
   name = "ChengBin"
+=======
+  name = "BinCher"
+>>>>>>> d30ad2e086a1814a369234ebecc58f515979c634
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -39,10 +48,14 @@ defaultContentLanguage = "zh-cn"  # 默认使用的语言
 
 [[menu.main]]             # config your menu              # 配置目录
 <<<<<<< HEAD
+<<<<<<< HEAD
   name = "主页"
 =======
   name = "This is Home"
 >>>>>>> bd2ba3c3f174eb3164ac49b4b065fe46f822fc51
+=======
+  name = "主页"
+>>>>>>> d30ad2e086a1814a369234ebecc58f515979c634
   weight = 10
   identifier = "home"
   url = "/"
@@ -71,9 +84,12 @@ defaultContentLanguage = "zh-cn"  # 默认使用的语言
 <<<<<<< HEAD
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
   since = "2018"            # Site creation time          # 站点建立时间
+<<<<<<< HEAD
 =======
   since = "2017"            # Site creation time          # 站点建立时间
 >>>>>>> bd2ba3c3f174eb3164ac49b4b065fe46f822fc51
+=======
+>>>>>>> d30ad2e086a1814a369234ebecc58f515979c634
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = false     # if false, Rss feed instead of the summary
 
@@ -129,7 +145,11 @@ defaultContentLanguage = "zh-cn"  # 默认使用的语言
     issueTerm = "pathname"
 
   [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+<<<<<<< HEAD
     owner = "ChengBin"              # Your GitHub ID
+=======
+    owner = "BinCher"              # Your GitHub ID
+>>>>>>> d30ad2e086a1814a369234ebecc58f515979c634
     repo = ""               # The repo to store comments
     clientId = ""           # Your client ID
     clientSecret = ""       # Your client secret
@@ -151,9 +171,15 @@ defaultContentLanguage = "zh-cn"  # 默认使用的语言
     a-email = "mailto:hcb739237663@gmail.com"
 #    b-stack-overflow = "http://localhost:1313"
 #    e-linkedin = "http://localhost:1313"
+<<<<<<< HEAD
     f-google = "https://plus.google.com/105942792951660728875"
     g-github = "http://github.com/ChengBinH"
     h-weibo = "https://weibo.com/2392253913"
+=======
+#    f-google = "http://localhost:1313"
+    g-github = "http://github.com/BinCher"
+    h-weibo = "http://weibo.com/234495038"
+>>>>>>> d30ad2e086a1814a369234ebecc58f515979c634
 
 # jsonfeed support
 # more information: https://github.com/xianmin/hugo-theme-jane/issues/23
